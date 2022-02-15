@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CoffeeTalk-react/static/css/main.573db31a.css",
+    "main.js": "/CoffeeTalk-react/static/js/main.e2a889ac.js",
+    "static/js/787.fb80194e.chunk.js": "/CoffeeTalk-react/static/js/787.fb80194e.chunk.js",
+    "static/media/coffetalk.jpeg": "/CoffeeTalk-react/static/media/coffetalk.4945da403cb036b4841c.jpeg",
+    "static/media/Elf.png": "/CoffeeTalk-react/static/media/Elf.a57ddb8e7c84de1de3fa.png",
+    "static/media/Orc.png": "/CoffeeTalk-react/static/media/Orc.c1e52f93ed0a6bab60bb.png",
+    "static/media/Midnight.png": "/CoffeeTalk-react/static/media/Midnight.78948d01ea08f3198104.png",
+    "static/media/Human.png": "/CoffeeTalk-react/static/media/Human.bf207bf5a99c01cf29be.png",
+    "static/media/coffeetalkPeople.jpeg": "/CoffeeTalk-react/static/media/coffeetalkPeople.7db921898f5232de5ed7.jpeg",
+    "static/media/Murloc.png": "/CoffeeTalk-react/static/media/Murloc.7379f6378c3a0a3662f0.png",
+    "static/media/Gala.jpg": "/CoffeeTalk-react/static/media/Gala.b024956396b27f853235.jpg",
+    "static/media/background.gif": "/CoffeeTalk-react/static/media/background.bf59e4941288618a4f97.gif",
+    "index.html": "/CoffeeTalk-react/index.html",
+    "main.573db31a.css.map": "/CoffeeTalk-react/static/css/main.573db31a.css.map",
+    "main.e2a889ac.js.map": "/CoffeeTalk-react/static/js/main.e2a889ac.js.map",
+    "787.fb80194e.chunk.js.map": "/CoffeeTalk-react/static/js/787.fb80194e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.573db31a.css",
+    "static/js/main.e2a889ac.js"
+  ]
+}
