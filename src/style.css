@@ -1,0 +1,160 @@
+.container {
+  width: 100%;
+  margin: 8rem auto;
+  display: flex;
+  height: 40vh;
+}
+
+.pic-container {
+  width: 100%;
+  margin: auto;
+}
+.des-container {
+  text-align: center;
+  margin: 5rem 2rem;
+  color: white;
+  padding: 5px;
+  font-size: 20px;
+  height: 200px;
+}
+.des > p {
+  margin: -5px;
+}
+
+.title-pic {
+  background-image: url(./../public/image/coffetalk.jpeg);
+  background-repeat: no-repeat;
+  background-size: 1500px 800px;
+  width: 100%;
+  height: 45rem;
+}
+.mid-pic {
+  background-image: url(./../public/image/coffeetalkPeople.jpeg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: auto 500px;
+  width: 100%;
+  height: 20rem;
+}
+
+.block-coniainer {
+  border: 1px solid white;
+  width: 200px;
+  height: 200px;
+  margin: 2rem auto;
+  font-size: 15px;
+  color: white;
+}
+.block-pic_elf {
+  background-image: url(./../public/image/Elf.png);
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: 200px 200px;
+}
+.block-pic_human {
+  background-image: url(./../public/image/Human.png);
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: 200px 200px;
+}
+.block-pic_murloc {
+  background-image: url(./../public/image/Murloc.png);
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: 200px 200px;
+}
+.block-pic_orc {
+  background-image: url(./../public/image/Orc.png);
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: 200px 200px;
+}
+.block-des {
+  width: 200px;
+  margin: 2rem auto;
+}
+.mid-des {
+  margin: 7rem auto;
+  font-size: 20px;
+}
+.mid-pic_gola {
+  background-image: url(./../public/image/Gala.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: auto 635px;
+  width: 100%;
+  height: 20rem;
+}
+.buy {
+  margin: auto;
+  width: 200px;
+  height: 100px;
+  background-color: black;
+  border: 1px solid white;
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.container > a {
+  height: 100px;
+  margin: auto;
+}
+.buy:hover {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.block-pic_latte {
+  background-image: url(./../public/image/coffeetype/Caffelatte.png);
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: 200px 200px;
+}
+.block-pic_espr {
+  background-image: url(./../public/image/coffeetype/Espresso.png);
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: 200px 200px;
+}
+.block-pic_green {
+  background-image: url(./../public/image/coffeetype/greenteatlatte.png);
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: 200px 200px;
+}
+.block-pic_midnight {
+  background-image: url(./../public/image/coffeetype/Midnight.png);
+  width: 200px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: 200px 200px;
+}
+.block-pic_latte:hover {
+  width: 500px;
+}
+footer {
+  width: 100%;
+
+  text-decoration: none;
+}
+footer > div > a {
+  text-decoration: none;
+}
+
+.copyright {
+  background-color: black;
+  height: 35px;
+  font-size: 25px;
+  color: white;
+}
+.container_button {
+  margin: 5rem auto;
+}
